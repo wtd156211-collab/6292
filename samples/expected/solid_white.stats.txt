@@ -1,0 +1,1 @@
+label pixels min_row min_col max_row max_col centroid_row centroid_col
